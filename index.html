@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css" type="text/css">
+    <title>Welcome to Russia</title>
+</head>
+<body>
+        <div class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="index.html">
+                        <h3>Russian Empire</h3>
+                        <img src="images/russia-flag.jpg" height="50px" width="100px" alt="Russian flag" class="logo" />
+                    </a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#hamburgerMenu">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="hamburgerMenu">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href='#'>Home</a ></li> 
+                        <li><a href="#">Moscow</a></li>
+                        <li><a href="#">St.Petersburg</a></li>
+                        <li><a href="#">The History of Russia</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>  
+        <div class="jumbotron jumbotron-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    <p class="heading jumbotronTextOnImages text-right"><b><i>"Russia is a riddle wrapped in a <br>mystery inside an enigma."</i></b></p>
+                    <p class="lead jumbotronTextOnImages text-right">- Winston Churchill</p>
+                    <img id="JumboImage" src="images/national.jpg" alt="museum">
+                    <h3 class="MoreInfo hidden-xs">Want to learn more? Sign up for your personalised itinery.</h3>
+                    <button type="button" class="btn btn-danger" data-toggle='modal' data-target='#signUpModal'>Sign Up!</button>
+                </div>
+            </div>
+        </div>
+        <section class="top-section">
+            <div class="container-fluid wrapper">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-4"><img src="images/admiral.jpg" alt="The Admirality College" id="adMus"><h3>Picturesque walking areas!</h3></div>
+                    <div class="col-xs-12 col-sm-4"><img src="images/isaac.jpg" alt="St Isaac's Cathedral" id="isaaC"><h3>Great historical buildings!</h3></div>
+                    <div class="col-xs-12 col-sm-4"><img src="images/bolshoi.jpg" alt="Bolshoi Theatre" id="bolSTh"><h3>Lots of history to discover!</h3></div>
+                </div>        
+            </div>
+            <br>
+        <section class="center-section">
+            <div class="container-fluid wrapper">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6"><img src="images/art-in-stbas.jpg" alt="St. Basil's Cathedral" id="sTbas"><h3>Explore beautiful architecture</h3></div>
+                    <div class="col-xs-12 col-sm-6"><img src="images/christ.jpg" alt="Spilt Blood church" id="christSSB"><h3>Immerse yourself in spiritual surroundings</h3></div>
+                </div>
+            </div>
+        </section>
+            <br>
+            <section class="bottom-section">
+                    <div class="container-fluid wrapper">
+                        <div class="row">
+                            <div class="col-xs-12"><img src="images/leninmus.jpg" alt="Lenin Museleum" id="LeninMusl"><h3>Welcome to Russia! Come and join us.</h3></div>
+                        </div>
+                    </div>
+            </section>
+            <br>
+        </section>    
+        <footer class="container-fluid">
+            <div id="footer-details" class="row">
+                <div class="col-sm-4">
+                    <h5 class="uppercase general-sub">About</h5> 
+                    <p class="inline-block">
+                        Welcome to Russia. This site will show you how amazing and beautiful Russia is and this will help you get an idea of what you can do.
+                    </p>
+                </div>
+                <div class="col-sm-4">
+                    <h5 class="uppercase general-sub"><strong>Visa</strong></h5>
+                    <p class="inline-block">
+                        <strong>Visa's are mandatory to get into Russia. You will be required to complete a form prior to traveling. To apply or for more information please click on the link
+                        <a href="http://ru.vfsglobal.co.uk/" target="_blank">here.</a></strong>
+                    </p>
+                </div>
+                <div class="col-sm-4">
+                    <h5 class="uppercase general-sub">Want to see more? Please join the Russian Empire on Social media for regular updates.</h5>
+                    <ul class="list-inline social-links">
+                        <li><a target="_blank" href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+                        <li><a target="_blank" href="https://twitter.com/?lang=en-gb"><i class="fa fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/feed/"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a target="_blank" href="https://www.pinterest.co.uk/"><i class="fa fa-pinterest"></i></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="https://www.youtube.com/?gl=GB&hl=en-GB"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+        </footer>
+    <div class="modal fade" id="signUpModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 style="color:blue;" class="modal-title" id="myModalLabel">Sign up for your personalised itinery here.</h4>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="name">Forename</label>
+                            <input type="name" class="form-control" id="Fname" placeholder="Forename">
+                        </div>
+                        <div class="form-group">
+                            <label for="name">Surname</label>
+                            <input type="name" class="form-control" id="Sname" placeholder="Surname">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email address</label>
+                            <input type="email" required class="form-control" id="email" placeholder="Email">
+                            <p class="help-block">We'll never share your email address with anyone</p>
+                        </div>
+                        <button type="submit" class="btn btn-danger">Sign Up!</button>
+                    </form>
+        
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</body>
+</html>

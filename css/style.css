@@ -1,0 +1,208 @@
+body {
+    font-family: helvetica;
+    background-color: #2441E2;
+    color: #fafafa;
+}
+
+.navbar-default {
+    width: auto;
+    font-family: 'Arvo', serif;
+    background-color: #0055ff;
+    text-transform: uppercase;
+}
+
+.navbar-header h3 {
+    margin-left: 0;
+    margin-top: 0;
+    color: #ffffff;
+}
+
+.logo {
+    margin-left: 225px;
+    margin-top: -51px;
+}
+
+.navbar-nav {
+    float: right;
+    font-size: 15px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #ffffff;
+    width: auto;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: red;
+    color: #ffffff;
+    transition: all 1s ease;
+}
+
+.jumbotron {
+    background-image:url("images/national.jpg") no-repeat center center;
+    padding: 0px;
+    margin-top: -20px;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}  
+
+.MoreInfo {
+    font-family: helvetica;
+    color: blue;
+    margin: 10px;
+}
+
+#JumboImage { 
+    width: 100%;
+    height: auto;
+}
+
+.heading {
+    position: absolute;
+    width: 100%;
+    margin-top: 50px;
+    margin-left: -50px;
+    font-size: 100px;
+}
+
+.lead {
+    position: absolute;
+    width: 100%;
+    margin-top: 110px;
+    margin-left: -50px;
+    font-size: 100px;
+}
+
+
+.btn-danger {
+    margin-bottom: 25px;
+    margin: 10px;
+
+}
+
+.wrapper {
+    background-color: #ffffff;
+    font-family: helvetica;
+    color: #2441E2;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5px;
+}
+
+.wrapper img {
+    padding-top: 50px;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#adMus {
+    margin-top: 25px;
+    margin-bottom: -50px;
+    transform: rotate(180deg);
+    
+}
+
+#isaaC {
+    margin-top: 25px;
+    margin-bottom: -50px;
+    transform: rotate(180deg);
+}
+
+#bolSTh {
+    margin-top: 25px;
+    margin-bottom: -50px;
+    transform: rotate(180deg);
+}
+
+#sTbas {
+    margin-top: -25px;
+}
+
+#christSSB {
+    margin-top: 25px;
+    margin-bottom: -50px;
+    transform: rotate(180deg);
+}
+
+#footer-details {
+    background-color: #ffffff;
+    color: blue;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background-color: #8f8f8f;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: blue;
+    animation-name: socialL;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-duration: 2s;
+}
+
+@keyframes socialL {
+    from {
+     transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.form-group {
+    color: blue;
+}
+
+
+
+
+/*---------------------------------------------------- Media Queries for navbar*/
+
+@media screen and (max-width: 780px) {
+    .navbar-toggle {
+        float: left;
+        margin: 10px;
+        margin-top: -40px;
+    }
+    #hamburgerMenu {
+        float: left;
+        cursor: pointer;
+    }
+    .navbar-brand {
+        margin-left: 50px;
+    }
+}
+
+/*@media screen and (max-width: 990px) {
+    .navbar-toggle {
+        float: none;
+        margin: 10px;
+    }
+    #hamburgerMenu {
+        float: left;
+        cursor: pointer;
+    }
+    .navbar-brand {
+        margin-left: 50px;
+    }
+}*/
+
+
+/*---------------------------------------------------- Media Queries for navbar end*/
