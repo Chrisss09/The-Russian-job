@@ -134,6 +134,10 @@ body {
     transform: rotate(180deg);
 }
 
+#ArmOr {
+    margin-top: -25px;
+    margin-bottom: 0px;
+}
 
 #footer-details {
     background-color: #ffffff;
