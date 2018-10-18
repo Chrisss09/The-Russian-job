@@ -206,3 +206,22 @@ body {
 
 
 /*---------------------------------------------------- Media Queries for navbar end*/
+
+.videowrapper {
+    
+    position: relative;
+    padding-bottom: 40%;
+    padding-top: 40px;
+    margin-top: 10px;
+    height: 0px;
+}
+
+.videowrapper iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+}
