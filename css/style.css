@@ -40,8 +40,9 @@ body {
 
 .jumbotron {
     background-image:url("images/national.jpg") no-repeat center center;
-    padding: 0px;
-    margin-top: -20px;
+    /*padding: 0px;
+    margin-top: -20px; navbar options for fixed*/
+    padding-bottom: 10px;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
@@ -98,6 +99,11 @@ body {
     max-width: 100%;
     height: auto;
 }
+
+#HeaDing {
+    Padding-top: 50px;
+}
+
 
 #adMus {
     margin-top: 25px;

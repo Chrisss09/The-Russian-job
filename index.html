@@ -11,7 +11,7 @@
     <title>Welcome to Russia | Travel & Tourism</title>
 </head>
 <body>
-        <div class="navbar navbar-default">
+        <div class="navbar navbar-default navbar-fixed-top">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <a class="navbar-brand" href="index.html">
@@ -31,6 +31,7 @@
                         <li><a href="moscow.html">Moscow</a></li>
                         <li><a href="#">St.Petersburg</a></li>
                         <li><a href="#">The History of Russia</a></li>
+                        <li><a href="#" class="glyphicon glyphicon-check" data-toggle='modal' data-target='#signUpModal2'>Log in / Sign up</a></li>
                     </ul>
                 </div>
             </div>
@@ -120,9 +121,54 @@
                         <div class="form-group">
                             <label for="email">Email address</label>
                             <input type="email" required class="form-control" id="email" placeholder="Email">
-                            <p class="help-block">We'll never share your email address with anyone</p>
+                            <p class="help-block">Your email address will never be shared with 3rd Party companies.</p>
                         </div>
                         <button type="submit" class="btn btn-danger">Sign Up!</button>
+                    </form>
+        
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="signUpModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                   <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                   <h4 style="color:blue;" class="modal-title" id="myModalLabel">Sign in to your account.</h4>
+                </div>
+                <div class="modal-body">
+                   <form>
+                        <div class="form-group">
+                          <label for="email">Email address</label>
+                          <input type="email" required class="form-control" id="email" placeholder="Email">
+                        </div>
+                        <div class="form-group">
+                          <label for="password">Password</label>
+                          <input type="password" required class="form-control" id="password" placeholder="Password">
+                        </div>
+                        <button type="submit" class="btn btn-danger">Log in!</button>
+                        <hr>
+                        <div class="modal-header">
+                            <h4 style="color:blue;" class="modal-title" id="myModalLabel">Not a member? Create your account here.</h4>
+                        </div>
+                        <div class="form-group">
+                          <label for="email">Email address</label>
+                          <input type="email" required class="form-control" id="email" placeholder="Email">
+                          <p class="help-block">Your email address will never be shared with 3rd Party companies.</p>
+                        </div>
+                        <div class="form-group">
+                          <label for="password">Password</label>
+                          <input type="password" required class="form-control" id="password" placeholder="Password">
+                        </div>
+                        <div class="form-group">
+                            <label for="passwordRepeat">Confirm your password</label>
+                            <input type="password" required class="form-control" id="passwordRepeat" placeholder="Re-type password">
+                        </div>
+                        <button type="submit" class="btn btn-danger">Sign up!</button>
+
                     </form>
         
                 </div>
