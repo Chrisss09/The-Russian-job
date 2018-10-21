@@ -38,6 +38,10 @@ body {
     transition: all 1s ease;
 }
 
+.glyphicon-user {
+    margin-right: 5px;
+}
+
 .jumbotron {
     background-image:url("images/national.jpg") no-repeat center center;
     /*padding: 0px;
