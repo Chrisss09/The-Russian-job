@@ -87,6 +87,24 @@ body {
 
 }
 
+.jumbotron2 {
+    background-image:url("images/literature.jpg") no-repeat center center;
+    padding: 0px;
+    margin-top: 1px; 
+    padding-bottom: 10px;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+#JumboImage2 { 
+    margin-top: -50px;
+    width: 100%;
+    height: auto;
+    transform: rotate(180deg);
+}
+
 .wrapper {
     background-color: #ffffff;
     font-family: helvetica;
@@ -151,7 +169,6 @@ body {
 
 #hermI {
     margin-top: -25px;
-    
 }
 
 #footer-details {
@@ -201,7 +218,7 @@ body {
 
 /*---------------------------------------------------- Media Queries for navbar*/
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 991px) {
     .navbar-toggle {
         float: left;
         margin: 10px;
@@ -213,6 +230,18 @@ body {
     }
     .navbar-brand {
         margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    #JumboImage {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    #JumboImage2 {
+        margin-top: -40px;
     }
 }
 
