@@ -1,7 +1,11 @@
 body {
     font-family: helvetica;
-    background-color: #2441E2;
+    background-color: #0055ff;
     color: #fafafa;
+}
+
+h1, h2, h3 {
+    font-family: 'Arvo', serif;
 }
 
 /*---------------------------------------------------- Navbar*/
@@ -35,7 +39,7 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    background-color: red;
+    background-color: #fd0505;
     color: #ffffff;
     transition: all 1s ease;
 }
@@ -59,7 +63,7 @@ body {
 
 .MoreInfo {
     font-family: helvetica;
-    color: blue;
+    color: #0055ff;
     margin: 10px;
 }
 
@@ -112,7 +116,7 @@ body {
 .wrapper {
     background-color: #ffffff;
     font-family: helvetica;
-    color: #2441E2;
+    color: #0055ff;
     padding-bottom: 10px;
     margin-left: 50px;
     margin-right: 50px;
@@ -181,7 +185,7 @@ body {
 
 #footer-details {
     background-color: #ffffff;
-    color: blue;
+    color: #0055ff;
 }
 
 .social-links li a i {
@@ -201,7 +205,7 @@ body {
 }
 
 .social-links li a i:hover {
-    background: blue;
+    background: #0055ff;
     animation-name: socialL;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -218,7 +222,7 @@ body {
 }
 
 .form-group {
-    color: blue;
+    color: #0055ff;
 }
 
 
