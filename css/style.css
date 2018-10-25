@@ -230,7 +230,7 @@ h1, h2, h3 {
 
 /*---------------------------------------------------- Media Queries*/
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 991px) {
     .navbar-toggle {
         float: left;
         margin: 10px;
@@ -243,15 +243,9 @@ h1, h2, h3 {
     .navbar-brand {
         margin-left: 50px;
     }
-}
-
-@media screen and (max-width: 991px) {
     #JumboImage {
         margin-top: 20px;
     }
-}
-
-@media screen and (max-width: 991px) {
     #JumboImage2 {
         margin-top: -40px;
     }
