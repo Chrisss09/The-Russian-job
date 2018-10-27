@@ -110,7 +110,6 @@ h1, h2, h3 {
     margin-top: -50px;
     width: 100%;
     height: auto;
-    transform: rotate(180deg);
 }
 
 .wrapper {
@@ -124,63 +123,15 @@ h1, h2, h3 {
 }
 
 .wrapper img {
-    padding-top: 50px;
+    padding-top: 10px;
     width: auto;
     max-width: 100%;
     height: auto;
 }
 
-/*---------------------------------------------------- Photos*/
-
 #HeaDing {
     Padding-top: 50px;
 }
-
-
-#adMus {
-    margin-top: 25px;
-    margin-bottom: -50px;
-    transform: rotate(180deg);
-    
-}
-
-#isaaC {
-    margin-top: 25px;
-    margin-bottom: -50px;
-    transform: rotate(180deg);
-}
-
-#bolSTh {
-    margin-top: 25px;
-    margin-bottom: -50px;
-    transform: rotate(180deg);
-}
-
-#sTbas {
-    margin-top: -25px;
-}
-
-#christSSB {
-    margin-top: 25px;
-    margin-bottom: -50px;
-    transform: rotate(180deg);
-}
-
-#sTbas2 {
-    margin-top: 25px;
-    margin-bottom: -50px;
-    transform: rotate(180deg);
-}
-
-#ArmOr {
-    margin-top: -25px;
-    margin-bottom: 0px;
-}
-
-#hermI {
-    margin-top: -25px;
-}
-
 /*---------------------------------------------------- Social Media*/
 
 #footer-details {
