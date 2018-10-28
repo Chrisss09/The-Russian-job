@@ -58,6 +58,7 @@ h1, h2, h3 {
 
 .navbar-fixed-top .active a {
     background-color: #fd0505!important;
+    color: #ffffff!important;
 }
 
 /*---------------------------------------------------- Jumbotron*/
