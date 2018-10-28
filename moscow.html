@@ -11,14 +11,42 @@
     <title>Welcome to Russia | Travel & Tourism</title>
 </head>
 <body>
-        <div class="navbar navbar-default navbar-fixed-top">
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#hamburgerMenu" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span style="background-color: #ffffff;" class="icon-bar"></span>
+                    <span style="background-color: #0055ff;" class="icon-bar"></span>
+                    <span style="background-color: #fd0505;" class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Russian Empire</a>
+                <!--<img src="images2/russia-flag.jpg" height="50px" width="100px" alt="Russian flag" class="logo">-->
+            </div>   
+            
+        
+            <div class="collapse navbar-collapse" id="hamburgerMenu">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Home <span class="sr-only"></span></a></li>
+                    <li><a href="moscow.html">Moscow</a></li>
+                    <li><a href="st.petersburg.html">St. Petersburg</a></li>
+                    <li><a href="history.html">The History of Russia</a></li>
+                    <li><a href="contact.html">Contact us</a></li>
+                    <li><a href="#" data-toggle='modal' data-target='#signUpModal2'><span class="glyphicon glyphicon-user"></span>Log in / Sign up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-----------------------------------------------------------------
+        <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <a class="navbar-brand" href="index.html">
                         <h3>Russian Empire</h3>
                         <img src="images2/russia-flag.jpg" height="50px" width="100px" alt="Russian flag" class="logo" />
                     </a>
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#hamburgerMenu">
+                    <button type="button" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#hamburgerMenu">
                         <span class="sr-only">Toggle navigation</span>
                         <span style="background-color: #ffffff;" class="icon-bar"></span>
                         <span style="background-color: #0055ff;" class="icon-bar"></span>
@@ -27,7 +55,7 @@
                 </div>
                 <div class="collapse navbar-collapse" id="hamburgerMenu">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="index.html">Home</a ></li> 
+                        <li><a href='index.html'>Home</a ></li> 
                         <li><a href="moscow.html">Moscow</a></li>
                         <li><a href="st.petersburg.html">St. Petersburg</a></li>
                         <li><a href="history.html">The History of Russia</a></li>
@@ -36,7 +64,9 @@
                     </ul>
                 </div>
             </div>
-        </div>  
+        </nav> 
+        
+    <----------------------------------------------------------------------------------->
         <section class="top-section">
             <div class="container-fluid wrapper">
                 <div class="row">
