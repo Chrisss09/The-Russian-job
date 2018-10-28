@@ -56,6 +56,10 @@ h1, h2, h3 {
     margin-right: 5px;
 }
 
+.navbar-fixed-top .active a {
+    background-color: #fd0505!important;
+}
+
 /*---------------------------------------------------- Jumbotron*/
 
 .jumbotron {
