@@ -13,6 +13,8 @@ h1, h2, h3 {
 .navbar-brand {
     color: #ffffff!important;
     font-size: 25px;
+    float: none;
+    display: inline-block;
 }
 
 .navbar-default {
@@ -230,15 +232,14 @@ h1, h2, h3 {
         padding-top: 10px;
         padding-bottom: 10px;
     }
-    .navbar-text {
-        float: none;
-        margin: 15px 0;
-    }
     .navbar-collapse.collapse.in { 
         display: block!important;
     }
     .collapsing {
         overflow: hidden!important;
+    }
+    .navbar-brand {
+        margin-left: -10px;
     }
 }
 
@@ -251,6 +252,14 @@ h1, h2, h3 {
     }
 }
 
+@media (max-width: 324px) {
+    .heading {
+        font-size: 18px!important;
+    }
+    .lead {
+        font-size: 16px!important;
+    }
+}
 
 /*---------------------------------------------------- Videos*/
 
