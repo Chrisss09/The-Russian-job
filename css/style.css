@@ -64,7 +64,7 @@ h1, h2, h3 {
 /*---------------------------------------------------- Jumbotron*/
 
 .jumbotron {
-    background-image:url("images/national.jpg") no-repeat center center;
+    background-image:url("images2/national.jpg") no-repeat center center;
     display: block;
     padding-bottom: 10px;
     -webkit-background-size: 100% 100%;
@@ -72,6 +72,15 @@ h1, h2, h3 {
     -o-background-size: 100% 100%;
     background-size: 100% 100%;
 }  
+
+.jumbotron {
+    background-image:url("images2/literature.jpg") no-repeat center center;
+    display: block;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+} 
 
 .MoreInfo {
     font-family: helvetica;
@@ -183,22 +192,6 @@ h1, h2, h3 {
 
 /*---------------------------------------------------- Media Queries*/
 
-/*@media screen and (max-width: 991px) {
-    .navbar-toggle {
-        margin: 10px;
-    }
-    #hamburgerMenu {
-        float: left;
-        cursor: pointer;
-    }
-    #JumboImage {
-        margin-top: 20px;
-    }
-    #JumboImage2 {
-        margin-top: -40px;
-    }
-}*/
-
 @media (max-width: 1199px) {
     .navbar-header {
         float: none;
@@ -241,7 +234,7 @@ h1, h2, h3 {
         margin-top: 20px;
     }
     #JumboImage2 {
-        margin-top: -40px;
+        margin-top: -60px;
     }
 }
 
