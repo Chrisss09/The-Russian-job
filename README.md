@@ -1,1 +1,2 @@
 <h1>Russian Empire</h1>
+<p>Welcome to my website on the very best of Russia. This site will show you how amazing and beautiful Russia is with it's rich history and great sites. This will help you get an idea of what you can do and see and how great the history is. Russia is one of my passions, I have read many books on the history of Russia, I have been to both Moscow and St. Petersburg a number of times and the photos used on my website are all my own.</p>
