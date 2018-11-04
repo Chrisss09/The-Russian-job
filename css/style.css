@@ -60,7 +60,9 @@ h1, h2, h3 {
 .jumbotron {
     background-image:url("images2/national.jpg") no-repeat center center;
     display: block;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+    margin: 15px;
+    margin-top: 2px;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
@@ -225,7 +227,7 @@ h1, h2, h3 {
 
 @media (max-width: 768px) {
     #JumboImage {
-        margin-top: 20px;
+        margin-top: 23px;
     }
     #JumboImage2 {
         margin-top: -35px;
