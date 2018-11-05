@@ -9,4 +9,5 @@
 <ul>
 <li>Homepage - I have created a clear and fun homepage with a lot of great photos and clear text.
 <li>Top navbar - On my top navbar I have created very clear links through my website.
-<li>Due to a lot of content I have made my navbar fixed to the top of the screen to allow the user easy access to get from one page to another
+<li>Due to a lot of content I have made my navbar fixed to the top of the screen to allow the user easy access to get from one page to another.
+<li>Also using my fixed navbar I have added an 'active' class which will remind the user what page they are using. 
