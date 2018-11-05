@@ -3,10 +3,10 @@
 <p>My love of Russia all started by accidentally buying a book of Rasputin and ever since then I have been obsessed so based on my love of Russia and my own experiences I wanted to show people how amazing Russia is as statistics show not many people from the UK know much about the subject.</p>
 
 <h2>UX</h2>
-<hr>
 <p>I have designed and created my website for users who want to get to know Russia, the user may not know much about this country and it's beautiful scenery, So I have created this site with some beautiful photos and a wide range of information.</p>
 
 <h2>Features</h2>
-<hr>
 <ul>
-<li>Homepage - I have created a clear and fun homepage with a lot of great photos and clear text<li>
+<li>Homepage - I have created a clear and fun homepage with a lot of great photos and clear text.<li>
+<li>Top navbar - On my top navbar I have created very clear links through my website.
+<li>Due to a lot of content I have made my navbar fixed to the top of the screen to allow the user easy access to get from one page to another</li>
