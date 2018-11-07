@@ -55,7 +55,7 @@ h1, h2, h3 {
 /*---------------------------------------------------- Jumbotron*/
 
 .jumbotron {
-    background-image:url("images2/national.jpg") no-repeat center center;
+    background-image:url("images2/national3.jpg") no-repeat center center;
     display: block;
     padding-bottom: 5px;
     margin: 15px;
@@ -67,7 +67,7 @@ h1, h2, h3 {
 }  
 
 .jumbotron2 {
-    background-image:url("images2/literature1.jpg") no-repeat center center;
+    background-image:url("images2/literature.jpg") no-repeat center center;
     display: block;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
