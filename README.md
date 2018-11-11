@@ -19,4 +19,7 @@
 <li>When the user views my website on a mobile device they will notice I have changed the colour to my collapsed menu as the Russian flag by using my CSS codes.
 <li>At the bottom of each page I have my footer section which has more information, including the social network links. I have added a transitional function on each of these social network links, so when the user scrolls over them the link will turn blue which will match my colour scheme and also the link will rotate. 
 <li>Also on my footer page due to the visa process being very important I have added a link to the external website for visa information.
-<li>On my contact page I have also used the 'mailto:' option so that the user can click on it to email the company.  
+<li>On my contact page I have also used the 'mailto:' option so that the user can click on it to email the company. 
+<p>An additional feature that I would of liked to implement in the future would be a dropdown menu under 'The History of Russia' section, so the dropdown menu would allow the user to select from the list what part of the history they would want to skip down the page to.
+
+<h2>Technologies Used<h2>
