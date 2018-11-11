@@ -10,4 +10,6 @@
 <li>Homepage - I have created a clear and fun homepage with a lot of great photos and clear text.
 <li>Top navbar - On my top navbar I have created very clear links through my website.
 <li>Due to a lot of content I have made my navbar fixed to the top of the screen to allow the user easy access to get from one page to another.
-<li>Also using my fixed navbar I have added an 'active' class which will remind the user what page they are using. 
+<li>Using my fixed navbar I have added an 'active' class which will remind the user what page they are using. 
+<li>Using my photos on my homepage I have created links to additional content and links to my pages on my navbar.
+<li>In this project I have added in two modals: One of them is in my navbar, under 'Login in/sign up'. When the user clicks on that button the modal will appear and the user will not be allowed to proceed without their password. The other modal I have used under my Jumbotron, where the user can enter their details for an itinery.
