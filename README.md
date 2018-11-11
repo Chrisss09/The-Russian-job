@@ -22,7 +22,7 @@
 <li>On my contact page I have also used the 'mailto:' option so that the user can click on it to email the company. 
 <p>An additional feature that I would of liked to implement in the future would be a dropdown menu under 'The History of Russia' section, so the dropdown menu would allow the user to select from the list what part of the history they would want to skip down the page to.</p>
 
-<h2>Technologies Used<h2>
+<h2>Technologies Used</h2>
 <p>During my first project I have used many different technologies including HTML and CSS to create an effective and professional website for users.</p>
 <p>Also included in my website are;</p>
 <ul>
