@@ -48,27 +48,26 @@
 <h2>Content</h2>
 <p>To get my website to a high level I used several websites to research and get more information from, this includes the best places to go, the best food to eat and all the various information on each of the buildings and their history.
 The websites are;</p>
-<li>http://famouswonders.com/st-basils-cathedral-in-moscow/;
-<li>https://assumption-cathedral.kreml.ru/en-Us/history/view/;
-<li>http://www.moscow.info/museums/state-historical-museum.aspx;
-<li>https://www.advantour.com/russia/moscow/interesting-places/bolshoi-theater.htm;
-<li>http://www.moscow.info/kremlin/short-history.aspx;
-<li>http://www.moscow.info/red-square/lenin-mausoleum.aspx;
-<li>https://en.wikipedia.org/wiki/Izvestia;
-<li>https://themoscowtimes.com/articles/rise-fall-stagnation-100-years-of-izvestia-57392;
-<li>http://www.saint-petersburg.com/museums/cabin-of-peter-the-great/;
-<li>http://www.saint-petersburg.com/virtual-tour/menshikov-palace/;
-<li>http://www.saint-petersburg.com/museums/peter-paul-fortress/;
-<li>http://www.russia-ic.com/culture_art/literature/169#.W-gbf9X7TIV;
-<li>http://www.saint-petersburg.com/palaces/yusupov-palace/;
-<li>https://www.britannica.com/place/Winter-Palace;
-<li>http://www.saint-petersburg.com/peterhof/;
-<li>http://www.saint-petersburg.com/monuments/bronze-horseman/;
-<li>http://www.saint-petersburg.com/virtual-tour/church-of-savior.asp;
-<li>http://www.saint-petersburg.com/mansions/kschessinska-mansion/;
-<li>https://www.lonelyplanet.com/russia/st-petersburg/attractions/smolny-institute/a/poi-sig/1480400/360547;
-<li>https://www.lonelyplanet.com/russia;
-<li>https://www.56thparallel.com/russian-architecture/;
-<li>http://factsanddetails.com/russia/People_and_Life/sub9_2b/entry-4997.html;
-<li>https://travelsort.com/8-things-to-eat-in-moscow/;
-<li>https://www.rbth.com/travel/2015/04/02/ten_things_you_should_eat_in_russia
+<li>The information for St Basils Cathedral for my history page was found on - http://famouswonders.com/st-basils-cathedral-in-moscow/;
+<li>The information for the Assumption Cathedral for my history page was found on - https://assumption-cathedral.kreml.ru/en-Us/history/view/;
+<li>The information for the state historical museum for my history page was found on - http://www.moscow.info/museums/state-historical-museum.aspx;
+<li>The information for the Bolshoi Theatre for my history page was found on - https://www.advantour.com/russia/moscow/interesting-places/bolshoi-theater.htm;
+<li>The information for the Kremlin for my history page was found on - http://www.moscow.info/kremlin/short-history.aspx;
+<li>The information for Lenin's Mausoleum for my history page was found on - http://www.moscow.info/red-square/lenin-mausoleum.aspx;
+<li>The information for the Izvestia for my history page was found on - https://en.wikipedia.org/wiki/Izvestia;
+<li>The information for the Izvestia for my history page was found on - https://themoscowtimes.com/articles/rise-fall-stagnation-100-years-of-izvestia-57392;
+<li>The information for Peter the Great's cabin for my history page was found on - http://www.saint-petersburg.com/museums/cabin-of-peter-the-great/;
+<li>The information for Menshikov's Palace for my history page was found on - http://www.saint-petersburg.com/virtual-tour/menshikov-palace/;
+<li>The information for the Peter and Paul Fortress for my history page was found on - http://www.saint-petersburg.com/museums/peter-paul-fortress/;
+<li>The information for the literary section for my history page was found on - http://www.russia-ic.com/culture_art/literature/169#.W-gbf9X7TIV;
+<li>The information for the Yusupov Palace for my history page was found on - http://www.saint-petersburg.com/palaces/yusupov-palace/;
+<li>The information for the Winter Palace for my history page was found on - https://www.britannica.com/place/Winter-Palace;
+<li>The information for the Peterhoff Palace for my history page was found on - http://www.saint-petersburg.com/peterhof/;
+<li>The information for the Bronze Horseman for my history page was found on - http://www.saint-petersburg.com/monuments/bronze-horseman/;
+<li>The information for the Church of Savior for my history page was found on - http://www.saint-petersburg.com/virtual-tour/church-of-savior.asp;
+<li>The information for the Mathilda's Mansion for my history page was found on - http://www.saint-petersburg.com/mansions/kschessinska-mansion/;
+<li>The information for my introduction to my website on my homepage was found on - https://www.lonelyplanet.com/russia;
+<li>The information for Russia's achitecture on my architecture page was found on - https://www.56thparallel.com/russian-architecture/;
+<li>The information for Russia's religion on my religion page was found on - http://factsanddetails.com/russia/People_and_Life/sub9_2b/entry-4997.html;
+<li>The information for the best Russian food on my Moscow and St Petersburg page was found on - https://travelsort.com/8-things-to-eat-in-moscow/;
+<li>The information for the best Russian food on my Moscow and St Petersburg page was found on - https://www.rbth.com/travel/2015/04/02/ten_things_you_should_eat_in_russia
