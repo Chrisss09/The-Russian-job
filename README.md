@@ -32,8 +32,8 @@
 <li>Font Awesome - I have also used Bootstrap's Font Awesome to create my social media icon links: https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
 <li>At the end of each page I have used a warning container to remind the user that it is important to know that you will need a visa to get into Russia.
 <li>Images - All my images used on this site are my own but due to the size of them they were large so they were slowing my website down, I downloaded a free image editor program called Photopad Image Editor so I was able to resize my images and compress them to a standard level. I also used a website called TinyPNG which also compresses your photos: https://tinypng.com/
-<li>To get my website to a high level I used several websites to research and get more information from, this includes the best places to go, the best food to eat and all the various information on each of the buildings and their history.
-The websites are;
+<p>To get my website to a high level I used several websites to research and get more information from, this includes the best places to go, the best food to eat and all the various information on each of the buildings and their history.
+The websites are;</p>
 <li>http://famouswonders.com/st-basils-cathedral-in-moscow/;
 <li>https://assumption-cathedral.kreml.ru/en-Us/history/view/;
 <li>http://www.moscow.info/museums/state-historical-museum.aspx;
@@ -58,3 +58,7 @@ The websites are;
 <li>http://factsanddetails.com/russia/People_and_Life/sub9_2b/entry-4997.html;
 <li>https://travelsort.com/8-things-to-eat-in-moscow/;
 <li>https://www.rbth.com/travel/2015/04/02/ten_things_you_should_eat_in_russia
+
+<h2>Testing</h2>
+<p>Throughout the project I conducted a number of testing on my website and one of the big issues I struggled with was the file sizes of my images, they were appearing on my website very slowly which is not ideal if a user has slow broadband speed. After investigation by getting advice on Slack and by talking to my mentor, I downloaded a free photo editing programe which is PhotoPad Image Editor and then I could resize my smaller images and also compress them and they now work a lot faster on my website.</p>
+<p>During the navigation through my website and in particular my 'History of Russia' page I felt like there was a lot of content and it wasn't very user-friendly so I made my navbar fixed to the top so it is easier for the user to navigate through my pages. I also thought, to make it even more user-friendly I added the 'active' class on my navbar. The active class will tell the user what page they are currently on by highlighting red, I have chosen the colour red because that is my colour scheme.</p>
