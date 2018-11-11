@@ -30,4 +30,11 @@
 <li>Bootstrap - I have used version 3 of Bootstrap for my Jumbotron and grid layout, to effectively show my images and clear text.
 <li>Google Fonts - I have used Google Fonts for my headings and the font I have chosen was Arvo and the link to this is https://fonts.googleapis.com/css?family=Arvo
 <li>Font Awesome - I have also used Bootstrap's Font Awesome to create my social media icon links: https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
-<li>
+<li>At the end of each page I have used a warning container to remind the user that it is important to know that you will need a visa to get into Russia.
+<li>Images - All my images used on this site are my own but due to the size of them they were large so they were slowing my website down, I downloaded a free image editor program called Photopad Image Editor so I was able to resize my images and compress them to a standard level. I also used a website called TinyPNG which also compresses your photos: https://tinypng.com/
+<li>To get my website to a high level I used several websites to research and get more information from, this includes the best places to go, the best food to eat and all the various information on each of the buildings and their history.
+The websites are;
+http://famouswonders.com/st-basils-cathedral-in-moscow/
+https://assumption-cathedral.kreml.ru/en-Us/history/view/
+http://www.moscow.info/museums/state-historical-museum.aspx
+https://www.advantour.com/russia/moscow/interesting-places/bolshoi-theater.htm
