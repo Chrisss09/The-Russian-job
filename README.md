@@ -13,3 +13,4 @@
 <li>Using my fixed navbar I have added an 'active' class which will remind the user what page they are using. 
 <li>Using my photos on my homepage I have created links to additional content and links to my pages on my navbar.
 <li>In this project I have added in two modals: One of them is in my navbar, under 'Login in/sign up'. When the user clicks on that button the modal will appear and the user will not be allowed to proceed without their password. The other modal I have used under my Jumbotron, where the user can enter their details for an itinery.
+<li>I have also used Youtube videos on several of my pages. I have done this by using the embeded option on Youtube and added the code into my HTML, and then I styled it using my CSS sheet.
