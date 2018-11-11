@@ -34,7 +34,27 @@
 <li>Images - All my images used on this site are my own but due to the size of them they were large so they were slowing my website down, I downloaded a free image editor program called Photopad Image Editor so I was able to resize my images and compress them to a standard level. I also used a website called TinyPNG which also compresses your photos: https://tinypng.com/
 <li>To get my website to a high level I used several websites to research and get more information from, this includes the best places to go, the best food to eat and all the various information on each of the buildings and their history.
 The websites are;
-http://famouswonders.com/st-basils-cathedral-in-moscow/
-https://assumption-cathedral.kreml.ru/en-Us/history/view/
-http://www.moscow.info/museums/state-historical-museum.aspx
-https://www.advantour.com/russia/moscow/interesting-places/bolshoi-theater.htm
+http://famouswonders.com/st-basils-cathedral-in-moscow/;
+https://assumption-cathedral.kreml.ru/en-Us/history/view/;
+http://www.moscow.info/museums/state-historical-museum.aspx;
+https://www.advantour.com/russia/moscow/interesting-places/bolshoi-theater.htm;
+http://www.moscow.info/kremlin/short-history.aspx;
+http://www.moscow.info/red-square/lenin-mausoleum.aspx;
+https://en.wikipedia.org/wiki/Izvestia;
+https://themoscowtimes.com/articles/rise-fall-stagnation-100-years-of-izvestia-57392;
+http://www.saint-petersburg.com/museums/cabin-of-peter-the-great/;
+http://www.saint-petersburg.com/virtual-tour/menshikov-palace/;
+http://www.saint-petersburg.com/museums/peter-paul-fortress/;
+http://www.russia-ic.com/culture_art/literature/169#.W-gbf9X7TIV;
+http://www.saint-petersburg.com/palaces/yusupov-palace/;
+https://www.britannica.com/place/Winter-Palace;
+http://www.saint-petersburg.com/peterhof/;
+http://www.saint-petersburg.com/monuments/bronze-horseman/;
+http://www.saint-petersburg.com/virtual-tour/church-of-savior.asp;
+http://www.saint-petersburg.com/mansions/kschessinska-mansion/;
+https://www.lonelyplanet.com/russia/st-petersburg/attractions/smolny-institute/a/poi-sig/1480400/360547;
+https://www.lonelyplanet.com/russia;
+https://www.56thparallel.com/russian-architecture/;
+http://factsanddetails.com/russia/People_and_Life/sub9_2b/entry-4997.html;
+https://travelsort.com/8-things-to-eat-in-moscow/;
+https://www.rbth.com/travel/2015/04/02/ten_things_you_should_eat_in_russia
