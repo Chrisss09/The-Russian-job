@@ -5,6 +5,7 @@
 <h2>UX</h2>
 <p>I have designed and created my website for users who want to get to know Russia, the user may not know much about this country and it's beautiful scenery, So I have created this site with some beautiful photos and a wide range of information.</p>
 <p>The colour scheme I have chosen as part of the Russian flag so everything matches the Russian colours.</p>
+<p>To plan my website I sketched several of my web pages in my notebook
 
 <h2>Features</h2>
 <ul>
