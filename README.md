@@ -4,7 +4,7 @@
 
 <h2>UX</h2>
 <p>I have designed and created my website for users who want to get to know Russia, the user may not know much about this country and it's beautiful scenery, So I have created this site with some beautiful photos and a wide range of information.</p>
-<p>The colour scheme I have chosen as part of the Russian flag so everything matches the Russian colours.<p>
+<p>The colour scheme I have chosen as part of the Russian flag so everything matches the Russian colours.</p>
 
 <h2>Features</h2>
 <ul>
@@ -20,6 +20,14 @@
 <li>At the bottom of each page I have my footer section which has more information, including the social network links. I have added a transitional function on each of these social network links, so when the user scrolls over them the link will turn blue which will match my colour scheme and also the link will rotate. 
 <li>Also on my footer page due to the visa process being very important I have added a link to the external website for visa information.
 <li>On my contact page I have also used the 'mailto:' option so that the user can click on it to email the company. 
-<p>An additional feature that I would of liked to implement in the future would be a dropdown menu under 'The History of Russia' section, so the dropdown menu would allow the user to select from the list what part of the history they would want to skip down the page to.
+<p>An additional feature that I would of liked to implement in the future would be a dropdown menu under 'The History of Russia' section, so the dropdown menu would allow the user to select from the list what part of the history they would want to skip down the page to.</p>
 
 <h2>Technologies Used<h2>
+<p>During my first project I have used many different technologies including HTML and CSS to create an effective and professional website for users.</p>
+<p>Also included in my website are;</p>
+<ul>
+<li>JavaScript and JQuery - I used these to allow my modal to work effectively and I have also used these to make my navbar collapse for mobile devices. The websites these are linked to are: https://getbootstrap.com/docs/3.3/getting-started/ and https://code.jquery.com/
+<li>Bootstrap - I have used version 3 of Bootstrap for my Jumbotron and grid layout, to effectively show my images and clear text.
+<li>Google Fonts - I have used Google Fonts for my headings and the font I have chosen was Arvo and the link to this is https://fonts.googleapis.com/css?family=Arvo
+<li>Font Awesome - I have also used Bootstrap's Font Awesome to create my social media icon links: https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
+<li>
