@@ -71,3 +71,7 @@ The websites are;</p>
 <li>The information for Russia's religion on my religion page was found on - http://factsanddetails.com/russia/People_and_Life/sub9_2b/entry-4997.html;
 <li>The information for the best Russian food on my Moscow and St Petersburg page was found on - https://travelsort.com/8-things-to-eat-in-moscow/;
 <li>The information for the best Russian food on my Moscow and St Petersburg page was found on - https://www.rbth.com/travel/2015/04/02/ten_things_you_should_eat_in_russia
+<h2>Images</h2>
+<p>All the images I have used on this site are all my own from when I went on holiday to Moscow and St. Petersburg.</p>
+<h2>Acknowledgements</h2>
+<p>For this project I got a lot of inspiration from my love of Russia and the passion to get into the web development business. At the start of my project I researched a couple of travel and tourism websites and I really liked the Visit Australia website which is https://www.australia.com/en-us, and I received quite a lot of ideas from that. I am also thankful for the advice and help I received from the other students using Slack and my friends and family including my girlfriend who tested my website out for user experience.
